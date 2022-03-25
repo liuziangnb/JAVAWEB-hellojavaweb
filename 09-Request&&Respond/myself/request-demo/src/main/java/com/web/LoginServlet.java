@@ -58,7 +58,6 @@ public class LoginServlet extends HttpServlet {
 
         }
 
-
     }
 
     @Override
